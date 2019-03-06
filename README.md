@@ -1,6 +1,13 @@
 # Data-Science-Projects
 My recent projects are-->
 
+### ARIMA forecasting model for Time Series
+
+Dataset for Mean Global Temperature (Time Series).Used adfuller test to determine dataset stationarity.
+Stationarized using lag feature differencing.Implemented ARIMA model for forecasting
+
+[Check Here](https://www.kaggle.com/mehulgupta2016154/arima?scriptVersionId=11194694#_=_)
+
 ### Titanic: Machine Learning From Disaster
 
 A binary classification determining survivors of titanic tragedy given information of passengers onboard.
